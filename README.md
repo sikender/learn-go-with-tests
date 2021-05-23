@@ -1,2 +1,3 @@
 # learn-go-with-tests
-Learn Go with test-driven development - https://quii.gitbook.io/learn-go-with-tests/
+
+Solutions for Learn Go with test-driven development (quii.gitbook.io/learn-go-with-tests)
